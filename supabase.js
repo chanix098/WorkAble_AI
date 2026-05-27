@@ -4,7 +4,7 @@
 // ============================================================
 
 const SUPABASE_URL = "https://hjrdebfoesekjgjjgksf.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_ACTUAL_ANON_KEY_HERE"; // Ensure this matches your project dashboard key configuration!
+const SUPABASE_ANON_KEY = "sb_publishable_8WZrPD27OFpaiKyjMrzgcQ_XJVYx_k8"; // Ensure this matches your project dashboard key configuration!
 
 const WorkableDB = (() => {
   // Enhanced fallback handling prevents Tracking Protection blockers from breaking operations
