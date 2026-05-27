@@ -4,7 +4,7 @@
 // ============================================================
 
 const SUPABASE_URL = "https://hjrdebfoesekjgjjgksf.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_8WZrPD27OFpaiKyjMrzgcQ_XJVYx_k8"; // Ensure this matches your project dashboard key configuration!
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhqcmRlYmZvZXNla2pnampna3NmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk3NjkyODEsImV4cCI6MjA5NTM0NTI4MX0.xKo68j3NG-bmqByCT0EEhN6QE00PQIZnvtS7NMr0atc"; // Ensure this matches your project dashboard key configuration!
 
 const WorkableDB = (() => {
   // Enhanced fallback handling prevents Tracking Protection blockers from breaking operations
